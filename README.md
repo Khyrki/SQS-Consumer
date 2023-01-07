@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Exemplo de implementação de um sqs consumer, lembresse de se atentar as versões das bibliotecas. 
 
 ## Installation
 
